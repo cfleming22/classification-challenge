@@ -1,7 +1,7 @@
-# Spam Detection Machine Learning Project
+# Classification Challenge | Module 13 Assignment 
 
 ## Background
-This project was developed for an Internet Service Provider (ISP) to improve their email filtering system. The goal is to accurately detect and filter out spam emails from customers' inboxes using supervised machine learning techniques. The implementation compares two different classification models to determine the most effective approach for spam detection.
+This project was to improve ISP's email filtering system. The goal is to accurately detect and filter out spam emails from customers' inboxes using supervised machine learning techniques. The implementation compares two different classification models to determine the most effective approach for spam detection.
 
 ## Project Overview
 The project implements a binary classification system that categorizes emails as either spam (1) or legitimate (0). Two different machine learning models are implemented and compared:
@@ -62,14 +62,6 @@ The Random Forest model's superior performance can be attributed to:
 3. Better handling of potential outliers in the dataset
 4. Effective modeling of feature interactions
 
-## Repository Structure
-```
-classification-challenge/
-│
-├── spam_detector.ipynb     # Main Jupyter notebook with analysis
-├── logbook.md             # Development log and decisions
-└── README.md             # Project documentation
-```
 
 ## Data Source
 - **Dataset**: Spambase dataset from UCI Machine Learning Repository
