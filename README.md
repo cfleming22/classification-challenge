@@ -80,7 +80,7 @@ The Random Forest model's superior performance can be attributed to:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/classification-challenge.git
+   git clone https://github.com/cfleming22/classification-challenge.git
    cd classification-challenge
    ```
 
